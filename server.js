@@ -29,7 +29,7 @@ wsServer.on('connection', function (ws)
     });
 
 });
-
+//tests
 function isSame(ws1, ws2) {
     return (ws1 === ws2);
 }
